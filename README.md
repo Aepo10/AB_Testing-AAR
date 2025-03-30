@@ -66,3 +66,7 @@ Automatizar el proceso de análisis y generación de informes.
 🤝 **Contribuciones**
 
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor abre un pull request o una issue en el repositorio. 🚀
+
+✒️ **Autores**
+
+mail: aarguellorevilla@gmail.com
