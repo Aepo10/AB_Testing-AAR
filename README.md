@@ -39,7 +39,7 @@ El análisis se basa en pruebas estadísticas para determinar si la nueva versi�
 
 Este proyecto utiliza Python y requiere las siguientes librerías:
 
-pip install pandas numpy seaborn matplotlib statsmodels scipy
+        pip install pandas numpy seaborn matplotlib statsmodels scipy
 
 🔬 **Metodología**
 
