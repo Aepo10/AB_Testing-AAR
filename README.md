@@ -13,15 +13,25 @@ El análisis se basa en pruebas estadísticas para determinar si la nueva versi�
 🗂️ Estructura del Proyecto
 
 /Proyecto_AB_Testing
+
 │
+
 ├── ab_testing.csv                  # Datos utilizados para la realización del trabajo.
+
 │
+
 ├── AAR_Proyecto AB Testing         # Jupyter Notebook con la realización y resolución del trabajo.
+
 │
+
 ├── /src/                           # Scripts para la manipulación de datos y pruebas estadísticas.
+
 │   ├── soporte_abtesting.py        # Funciones auxiliares para la ejecución del AB Testing.
+
 │   ├── soporte_visualizacion.py    # Funciones para generar visualizaciones de los resultados.
+
 │   ├── soporte_estadistico.py      # Implementación de pruebas estadísticas.
+
 │   └── config.py                   # Configuración del proyecto.
 
 
