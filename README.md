@@ -1,6 +1,6 @@
 # Proyecto de AB Testing: Optimización de Conversiones 📊
 
-📖 Descripción
+📖 **Descripción**
 
 Este proyecto tiene como objetivo analizar si un cambio en el diseño de un Call To Action (CTA) en una página web impacta en la tasa de conversión de los usuarios. Se ha llevado a cabo un experimento de AB Testing comparando dos versiones:
 
