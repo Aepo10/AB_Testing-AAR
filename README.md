@@ -10,7 +10,7 @@ Grupo B (Test): CTA en color naranja (nueva versión).
 
 El análisis se basa en pruebas estadísticas para determinar si la nueva versión mejora significativamente la conversión.
 
-🗂️ Estructura del Proyecto
+🗂️ **Estructura del Proyecto**
 
 /Proyecto_AB_Testing
 
@@ -35,13 +35,13 @@ El análisis se basa en pruebas estadísticas para determinar si la nueva versi�
 │   └── config.py                   # Configuración del proyecto.
 
 
-🛠️ Instalación y Requisitos
+🛠️ **Instalación y Requisitos**
 
 Este proyecto utiliza Python y requiere las siguientes librerías:
 
 pip install pandas numpy seaborn matplotlib statsmodels scipy
 
-🔬 Metodología
+🔬 **Metodología**
 
 Carga y limpieza de datos: Preparación del dataset para análisis.
 
@@ -51,11 +51,11 @@ Aplicación del Z-Test: Evaluación estadística de la diferencia entre las conv
 
 Evaluación del p-valor: Toma de decisiones basada en la significancia estadística.
 
-📊 Resultados y Conclusiones
+📊 **Resultados y Conclusiones**
 
 El test estadístico determinará si el cambio de color del CTA impacta significativamente la conversión. Los resultados pueden consultarse en los notebooks y visualizaciones generadas.
 
-🔄 Próximos Pasos
+🔄 **Próximos Pasos**
 
 Ampliar el experimento a otros elementos del diseño.
 
@@ -63,6 +63,6 @@ Implementar pruebas A/B en diferentes segmentos de usuarios.
 
 Automatizar el proceso de análisis y generación de informes.
 
-🤝 Contribuciones
+🤝 **Contribuciones**
 
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor abre un pull request o una issue en el repositorio. 🚀
